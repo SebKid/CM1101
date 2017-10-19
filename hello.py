@@ -2,4 +2,5 @@ Python 3.6.3 (v3.6.3:2c5fed8, Oct  3 2017, 17:26:49) [MSC v.1900 32 bit (Intel)]
 Type "copyright", "credits" or "license()" for more information.
 >>> print("Hello")
 Hello
->>> 
+>>> print("Hello")
+print ("World")
